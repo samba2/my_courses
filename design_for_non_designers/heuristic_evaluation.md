@@ -14,7 +14,7 @@
 - group of people
 - go through the heuristics
 - look fo instances of design that violate the 10 heuristics
-- then get to getter and compare
+- then get together and compare
 - decide what is most important to go forward
 
 # Understanding
@@ -43,7 +43,7 @@ _Use familiar metaphors and language_
 ## Clean and Functional Desgin
   - form follows function
   - layout should be driven by what people would like to do
-  - important information "above the fold" - im oberen teil der seite
+  - important information "above the fold" - im oberen Teil der Seite
 
 ![](assets/above_the_fold.PNG)
 
@@ -149,7 +149,7 @@ _Bad Example: Unclear difference between "Don't Save" and "Cancel"?_
 
 ![](assets/prevent_errors_find.PNG)
 
-_Good Example: Find dialog guides through the change task whereas "find" on the command line as almost endless options which the user needs to know_
+_Good Example: Find dialog guides through the task whereas "find" on the command line as almost endless options which the user needs to know_
 
 ## Support Error Recovery
 - when error happen it it important to make the error clear
