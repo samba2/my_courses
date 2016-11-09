@@ -1,37 +1,20 @@
+Basics
+======
 - Haskell only has expressions in contrast to "statements + expressions" in other languages
 
-- functions
-- in Python
-```
-def hello(name):
-  return "Hello, " + name
-```
-
-in haskell:
+defintion of a variable:
 ```
 hello name = "Hello, " ++ name
 ```
 concatination operator "++" is separte from addition operator "+"
 
-- types
-- C example:
-```
-int sq(int x, int y) {
-    return x* x+y*y*;
-}
-```
-
-in Haskell:
-- declaration:
+declaration of a function:
 ```
 sq::Int -> Int -> int   
 ```
-- definition:
+definition of this function
 ```
 sq x y = x * x + y*y
-
-- list syntax like in Python
-
 ```
 
 
