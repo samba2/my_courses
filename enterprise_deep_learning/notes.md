@@ -55,4 +55,6 @@ TODO have a further play with facets
      definition of Tensor
      hyperparameter tuning
      linear/ logistic regression
+     eigenvectors
+     
 
